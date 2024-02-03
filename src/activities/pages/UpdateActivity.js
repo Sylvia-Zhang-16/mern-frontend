@@ -95,7 +95,7 @@ const UpdateActivity = () => {
     return (
       <div className="center">
         <Card>
-          <h2>Could not find activity!</h2>
+          <h2>Could not find event!</h2>
         </Card>
       </div>
     );
@@ -136,7 +136,7 @@ const UpdateActivity = () => {
           initialValid={true}
         />
         <Button type="submit" disabled={!formState.isValid}>
-          UPDATE ACTIVITY
+          UPDATE EVENT
         </Button>
       </form>
       )};
