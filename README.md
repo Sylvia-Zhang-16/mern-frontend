@@ -4,7 +4,7 @@ This is the frontend repository for **My Event Management**. Built on the MERN s
 
 ## Deployment
 
-This full-stack project is deployed on Render. Here's the link which you can directly visit and try the general features of the events management application: `https://mern-project-b4sq.onrender.com/`.
+This full-stack project is deployed on Render. Here's the link which you can directly visit and try the general features of the events management application: https://mern-project-b4sq.onrender.com/.
 
 Tips:
 (1) If the first load takes a long time， please reload the homepage.
@@ -13,12 +13,12 @@ Tips:
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-Note: make sure that you are running the backend service at the same time.(`https://github.com/Sylvia-Zhang-16/mern-backend`)
+Note: make sure that you are running the backend service at the same time.(https://github.com/Sylvia-Zhang-16/mern-backend)
 
 Install dependencies:
-npm install
+`npm install`
 
 Start the application:
-npm start
+`npm start`
 
 The API server will be available at http://localhost:3000.
